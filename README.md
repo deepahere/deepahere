@@ -78,23 +78,18 @@ Passionate about creating data-driven and user-centric applications for future-r
 </div>
 
 ---
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Machine+Learning;Data+Science;Generative+AI;Full+Stack+Development;UI%2FUX+Design"/>
 
 </div>
 ```
-## 📊 Skill Matrix
+## 🚀 Areas of Expertise
 
-| Skill | Level |
-|---------|---------|
-| Python | ██████████ 90% |
-| Machine Learning | █████████ 85% |
-| Data Science | █████████ 85% |
-| Full Stack Development | ████████ 80% |
-| UI/UX Design | █████████ 85% |
-| Generative AI | █████████ 90% |
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,react,nodejs,mongodb,mysql,git,github,figma,vscode"/>
+</p>
+
 ---
 
 # 💼 Internship Experience
