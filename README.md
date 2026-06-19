@@ -85,7 +85,16 @@ Passionate about creating data-driven and user-centric applications for future-r
 
 </div>
 ```
+## 📊 Skill Matrix
 
+| Skill | Level |
+|---------|---------|
+| Python | ██████████ 90% |
+| Machine Learning | █████████ 85% |
+| Data Science | █████████ 85% |
+| Full Stack Development | ████████ 80% |
+| UI/UX Design | █████████ 85% |
+| Generative AI | █████████ 90% |
 ---
 
 # 💼 Internship Experience
