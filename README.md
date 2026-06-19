@@ -84,7 +84,7 @@ Passionate about creating data-driven and user-centric applications for future-r
 
 </div>
 ```
-## 🚀 Areas of Expertise
+# 🚀 Areas of Expertise
 
 <p align="center">
 
@@ -101,6 +101,8 @@ Passionate about creating data-driven and user-centric applications for future-r
 <img src="https://img.shields.io/badge/Full%20Stack%20Development-61DAFB?style=for-the-badge&logo=react"/>
 
 </p>
+
+
 ---
 
 # 💼 Internship Experience
