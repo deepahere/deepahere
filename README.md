@@ -79,32 +79,11 @@ Passionate about creating data-driven and user-centric applications for future-r
 
 ---
 
-# 📚 Areas of Expertise
+<div align="center">
 
-```yaml
-Artificial Intelligence:
-  - Machine Learning
-  - Predictive Analytics
-  - Data Analysis
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Machine+Learning;Data+Science;Generative+AI;Full+Stack+Development;UI%2FUX+Design"/>
 
-Generative AI:
-  - Prompt Engineering
-  - AI Assisted Development
-
-Data Science:
-  - Data Cleaning
-  - Data Visualization
-  - Data Processing
-
-UI/UX:
-  - Wireframing
-  - Prototyping
-  - User Experience Design
-
-Development:
-  - Frontend Development
-  - Backend Development
-  - Full Stack Applications
+</div>
 ```
 
 ---
