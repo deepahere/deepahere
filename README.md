@@ -87,9 +87,20 @@ Passionate about creating data-driven and user-centric applications for future-r
 ## 🚀 Areas of Expertise
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,react,nodejs,mongodb,mysql,git,github,figma,vscode"/>
-</p>
 
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-F24E1E?style=for-the-badge&logo=figma"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-61DAFB?style=for-the-badge&logo=react"/>
+
+</p>
 ---
 
 # 💼 Internship Experience
